@@ -1,6 +1,4 @@
-Hi Meghna! Here’s a template that could work for your GitHub profile:
-
-👋 Hi, I’m Meghna Shivan (@Meghanasivan)
+👋 Hi, I’m Meghana Sivan (@Meghanasivan)
 
 - 👀 I’m interested in Data Science, Artificial Intelligence, and innovative tech solutions.
 - 🌱 I’m currently learning advanced Python techniques and data analytics as part of my B.Tech in Computer Science.
@@ -9,7 +7,7 @@ Hi Meghna! Here’s a template that could work for your GitHub profile:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I attended a workshop on using AI in MS Office, and it was mind-blowing to see how AI can streamline everyday tasks!
 
-This showcases your current interests and learning path and hints at your future goals in data science and AI. Let me know if there’s anything else you’d like to include!
+
 
 
 
